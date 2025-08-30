@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Cybersecurity+Engineer;Open+Source+Enthusiast;Building+Security+for+LatAm;Aprendiendo+cada+d%C3%ADa+%F0%9F%8C%8E)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Cybersecurity+Engineer;Open+Source+Enthusiast;Building+Cybersecurity+for+LatAm;Aprendiendo+cada+d%C3%ADa+%F0%9F%8C%8E)
 
 [![Website](https://img.shields.io/badge/🌐_petervargas.com-00D4AA?style=for-the-badge)](https://petervargas.com)
 [![DivisionCero](https://img.shields.io/badge/🛡️_divisioncero.com-FF6B6B?style=for-the-badge)](https://divisioncero.com)
@@ -48,10 +48,10 @@ I'm a **Cybersecurity Engineer** from Colombia 🇨🇴 passionate about making 
 ## 🎯 Especialidades / Specialties
 
 - **Ciberseguridad Ofensiva y Defensiva** / Offensive & Defensive Cybersecurity
-- **Investigación de Cibercrimen** / Cybercrime Investigation  
-- **Desarrollo de Herramientas de Seguridad** / Security Tools Development
+- **Investigación de Cibercrimen** / Cybercrime Investigation
+- **Desarrollo de Herramientas de Ciberseguridad** / Cybersecurity Tools Development
 - **Educación en Ciberseguridad** / Cybersecurity Education
-- **Open Source Security** / Seguridad Open Source
+- **Open Source Cybersecurity** / Ciberseguridad Open Source
 
 ## 🌟 Filosofía / Philosophy
 
