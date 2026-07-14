@@ -22,47 +22,22 @@ I'm a **Cybersecurity Engineer** from Colombia 🇨🇴 passionate about making 
 
 ### [DivisionCero](https://divisioncero.com) 
 **Ciberseguridad creada por y para LatAm, aprendamos y aseguremos juntos**
-- 🎯 Hacer la ciberseguridad más accesible para cualquiera
-- 📚 Recursos educativos y herramientas prácticas
-- 🤝 Comunidad colaborativa de ciberseguridad
+🎯 Automatización de cumplimiento y protección en Ciberseguridad.
+
+### [CyberAcademy](https://cyberacademy.divisioncero.com)
+🎓 Plataforma de formación en ciberseguridad open-source y práctica.
 
 ### [Kudo](https://kudo.divisioncero.com)
 **Framework de ciberseguridad open-source y práctico**
-- 📖 Guía práctica de ciberseguridad
-- 🔓 Completamente open-source
-- 🎓 Enfoque educativo y hands-on
+- 📖 Simplificando requerimientos y controles de Ciberseguridad.
 
 ### [Conan](https://docs.divisioncero.com/docs/cyberacademy)
 **Sistema de rastreo computacional para investigación de cibercrimen**
-- 🔍 Herramientas de investigación digital
-- 🛡️ Enfoque en protección infantil
-- 🕵️ Metodologías de investigación de cibercrimen
+- 🕵️ Herramientas de investigación digital
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PetterVargas&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=FFFFFF)
-</div>
-
-## 🎯 Especialidades / Specialties
-
-- **Ciberseguridad Ofensiva y Defensiva** / Offensive & Defensive Cybersecurity
-- **Investigación de Cibercrimen** / Cybercrime Investigation
-- **Desarrollo de Herramientas de Ciberseguridad** / Cybersecurity Tools Development
-- **Educación en Ciberseguridad** / Cybersecurity Education
-- **Open Source Cybersecurity** / Ciberseguridad Open Source
-
-## 🌟 Filosofía / Philosophy
-
-Creo firmemente en la **ciberseguridad colaborativa** y en el poder de la educación para construir un mundo digital más seguro. Mi trabajo se centra en:
-
-I firmly believe in **collaborative cybersecurity** and the power of education to build a safer digital world. My work focuses on:
-
-- 🤝 **Colaboración** sobre competencia
-- 📚 **Educación** accesible y práctica  
-- 🔓 **Open Source** como motor de innovación
-- 🌎 **Impacto social** a través de la tecnología
+### [Herramientas](https://herramientas.divisioncero.com)
+Colección de herramientas prácticas de ciberseguridad
+🛠️ Utilidades web listas para usar en Ciberseguridad
 
 ## 📫 Conecta Conmigo / Connect With Me
 
@@ -70,7 +45,6 @@ I firmly believe in **collaborative cybersecurity** and the power of education t
 
 [![Email](https://img.shields.io/badge/Email-peter.vargasg%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:peter.vargasg@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-@divisioncero-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/divisioncero)
-[![Docs](https://img.shields.io/badge/Docs-docs.divisioncero.com-4A90E2?style=for-the-badge)](https://docs.divisioncero.com)
 
 </div>
 
@@ -81,5 +55,3 @@ I firmly believe in **collaborative cybersecurity** and the power of education t
 ### 🛡️ "Ciberseguridad creada por y para LatAm, aprendamos y aseguremos juntos"
 
 </div>
-
-** Obviamente este readme creado con IA, demasiado hermoso 😂**
