@@ -4,7 +4,7 @@
 
 ## Filosofía / Philosophy
 
-Conoce [nuestra filosofía](https://docs.divisioncero.com/blog/filosofia-divisioncero).
+Conoce [nuestra filosofía](https://divisioncero.com/blog/filosofia-divisioncero).
 
 ## Cómo Contribuir / How to Contribute
 
