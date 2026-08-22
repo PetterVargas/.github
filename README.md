@@ -1,1 +1,1 @@
-No me gusta escribir sobre mi; menos en diferente partes, para + info **[petervargas.com](https://petervargas.com)**
+No me gusta escribir sobre mí; menos en diferente partes, para + info **[petervargas.com](https://petervargas.com)**
